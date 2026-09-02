@@ -103,6 +103,7 @@
       "badlinkname",
       "tfogo_checklinkname0",
       "with_ebpf"
+      "with_wireguard"
     ]
   },
   "githubRelease": [
